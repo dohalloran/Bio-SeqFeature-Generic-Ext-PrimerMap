@@ -1,7 +1,7 @@
 ##PrimerMap_Perl version 1.0
 Author: Damien O'Halloran, The George Washington University, 2016
 
-![PrimerMap_Perl LOGO](https://cloud.githubusercontent.com/assets/8477977/19658494/3016e790-99f6-11e6-98fb-5e798aaceead.png)
+![PrimerMap_Perl LOGO](https://cloud.githubusercontent.com/assets/8477977/19660786/336e11a8-99ff-11e6-92e6-486de155caec.png)
 
 ##Installation
 1. Download and extract the PrimerMap_Perl.zip file  
