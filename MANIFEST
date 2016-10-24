@@ -1,0 +1,7 @@
+Makefile.PL
+MANIFEST
+README
+t/PrimerMap.t
+lib/PrimerMap.pm
+lib/driver.pl
+
