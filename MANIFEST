@@ -1,6 +1,6 @@
 Makefile.PL
 MANIFEST
-README
+README.md
 t/PrimerMap.t
 lib/PrimerMap.pm
 lib/driver.pl
