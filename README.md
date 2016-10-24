@@ -1,4 +1,4 @@
-##PrimerMap version 1.0
+##PrimerMap_Perl version 1.0
 Author: Damien O'Halloran, The George Washington University, 2016
 
 ##Installation
