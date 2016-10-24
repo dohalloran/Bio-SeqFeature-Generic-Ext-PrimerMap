@@ -379,7 +379,7 @@ sub primer_map {
     my $full_length = Bio::SeqFeature::Generic->new(
         -start        => 1,
         -end          => $self->{seq_len},
-        -display_name => $self->{id},
+        -display_name => $self->{seq_id},
     );
 
     $panel->add_track(
