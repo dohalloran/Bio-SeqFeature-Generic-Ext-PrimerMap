@@ -14,7 +14,7 @@
 
 =head1 NAME
 
-PrimerMap - generates a primer sequence graphcial map
+PrimerMap - generates a primer sequence graphical map
 
 =head1 SYNOPSIS
 
