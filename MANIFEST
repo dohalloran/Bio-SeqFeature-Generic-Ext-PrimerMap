@@ -1,7 +1,7 @@
 Changes
 lib/PrimerMap.pm
 Makefile.PL
-MANIFEST			This list of files
+MANIFEST	
 README
 sample_input/primermap_file.txt
 t/00-load.t
