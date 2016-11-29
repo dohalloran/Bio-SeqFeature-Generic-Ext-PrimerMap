@@ -7,7 +7,7 @@ Author: Damien O'Halloran, The George Washington University, 2016
 1. Download and extract the Bio-SeqFeature-Generic-Ext-PrimerMap.zip file  
 `tar -xzvf Bio-SeqFeature-Generic-Ext-PrimerMap.zip`  
 2. The extracted dir will be called Bio-SeqFeature-Generic-Ext-PrimerMap  
-  `cd Bio-SeqFeature-Generic-Ext-PrimerMap`  
+  `cd Bio-SeqFeature-Generic-Ext-PrimerMap`   
   `perl Makefile.PL`  
   `make`  
   `make test`  
@@ -15,7 +15,15 @@ Author: Damien O'Halloran, The George Washington University, 2016
 
 ##Usage 
 Run as follows:  
-  `perl driver.pl`  
+  ` my $tmp = PrimerMap->new();`  
+  `$tmp->load_map(`  
+   `primer_start => $start,`  
+   `primer_end   => $end,`  
+   `seq_length   => "1200",`  
+   `gene_name    => "myGene",`  
+   `out_file     => $output || "output.png"`  
+   `);`    
+ 
 
 
 ## Contributing
