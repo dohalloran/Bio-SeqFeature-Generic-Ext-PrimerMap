@@ -1,10 +1,14 @@
 Changes
 lib/PrimerMap.pm
 Makefile.PL
-MANIFEST	
+MANIFEST			
 README
+LICENSE
+README.md
+ignore.txt
 sample_input/primermap_file.txt
 t/00-load.t
 t/manifest.t
 t/pod-coverage.t
 t/pod.t
+xt/boilerplate.t
