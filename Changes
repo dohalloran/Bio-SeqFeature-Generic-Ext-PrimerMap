@@ -5,4 +5,9 @@ Revision history for PrimerMap
 
 1.1     Nov 30 2016
         Fixed POD and MakeFile.pl
+        
+1.2     Dec 3 2016
+        Added MYMETA.JSON and MYMETA.YML
+
+
 

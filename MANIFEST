@@ -5,6 +5,8 @@ MANIFEST
 README
 LICENSE
 README.md
+MYMETA.json
+MYMETA.yml
 ignore.txt
 sample_input/primermap_file.txt
 t/00-load.t
