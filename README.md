@@ -30,7 +30,7 @@ Run as follows:
 All contributions are welcome.
 
 ## Support
-If you have any problem or suggestion please open an issue [here](https://github.com/dohalloran/PrimerMap_Perl/issues).
+If you have any problem or suggestion please open an issue [here](https://github.com/dohalloran/Bio-SeqFeature-Generic-Ext-PrimerMap/issues).
 
 ## License 
 GNU GENERAL PUBLIC LICENSE
