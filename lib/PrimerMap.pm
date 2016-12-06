@@ -123,6 +123,7 @@ methods.
 package PrimerMap;
 
 use strict;
+use warnings;
 
 use Bio::Graphics;
 
