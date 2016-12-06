@@ -489,4 +489,14 @@ sub primer_map {
 }
 
 ###################################
+
+=head1 LICENSE AND COPYRIGHT
+
+ Copyright (C) 2016 Damien M. O'Halloran
+ GNU GENERAL PUBLIC LICENSE
+ Version 2, June 1991
+ 
+=cut
+
+
 1;
