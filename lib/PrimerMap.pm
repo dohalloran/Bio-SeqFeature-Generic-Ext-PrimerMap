@@ -129,7 +129,7 @@ use Bio::Graphics;
 # inherits from the Bio::SeqFeature::Generic class
 use parent qw/Bio::SeqFeature::Generic/;
 
-our $VERSION = '1.2';
+our $VERSION = '1.3';
 ##################################
 
 =head2 read_file()

@@ -8,7 +8,7 @@ WriteMakefile(
     AUTHOR           => q{Damien M. O'Halloran <damienoh@gwu.edu>},
     VERSION_FROM     => 'lib/PrimerMap.pm',
     ABSTRACT_FROM    => 'lib/PrimerMap.pm',
-    LICENSE          => 'artistic_2',
+    LICENSE          => 'gpl_2',
     PL_FILES         => {},
     MIN_PERL_VERSION => 5.006,
     CONFIGURE_REQUIRES => {
