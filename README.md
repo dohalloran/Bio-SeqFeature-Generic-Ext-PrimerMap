@@ -3,7 +3,7 @@ Author: Damien O'Halloran, The George Washington University, 2016
 
 ![PrimerMap_Perl LOGO](https://cloud.githubusercontent.com/assets/8477977/19660786/336e11a8-99ff-11e6-92e6-486de155caec.png)
 
-##Installation
+## Installation
 1. Download and extract the Bio-SeqFeature-Generic-Ext-PrimerMap.zip file  
 `tar -xzvf Bio-SeqFeature-Generic-Ext-PrimerMap.zip`  
 2. The extracted dir will be called Bio-SeqFeature-Generic-Ext-PrimerMap  
@@ -15,7 +15,7 @@ Author: Damien O'Halloran, The George Washington University, 2016
    make install  
 ```   
 
-##Usage 
+## Usage 
 Run as follows:
 ```perl
    my $tmp = PrimerMap->new();  
